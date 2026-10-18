@@ -52,9 +52,8 @@ and GPU power so the UPS battery lasts longer. When the electricity is back, pre
 | Project | What it is | Tech |
 |---|---|---|
 | **[Smart Logic Gates board](https://github.com/Muntazer2030/smart_logic_gates_trainer_board)** | A logic-gates trainer board with its own mobile app ([smartLogic](https://github.com/Muntazer2030/smartLogic), [logic_board_master](https://github.com/Muntazer2030/logic_board_master)) and a [backend server](https://github.com/Muntazer2030/backend_server_for_the_logic_board) | C, Dart, Python |
-| **[ESP32 Weather Sensors](https://github.com/Muntazer2030/Esp32WeatherSensors)** | ESP32 script reading DHT22, DMS501A and MQ135 sensors, showing data on an OLED and publishing it to an MQTT broker. Built for the Hurryapp 2 hackathon | C++, MQTT |
+| **[Sila (صلة)](https://github.com/Muntazer2030/sila)** | Windows desktop app for managing an organization's relationships: contact profiles by category, campaigns and invitations, a statistics dashboard, Excel import/export and automatic backups. Arabic interface, fully local | Flutter, SQLite |
 | **[Emails Campaign Tool](https://github.com/Muntazer2030/emails-campaign-tool)** | Send emails in bulk using your own email account | Dart |
-| **[Sila](https://github.com/Muntazer2030/sila)** | Mobile app | Dart |
 
 ---
 
