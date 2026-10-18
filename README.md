@@ -53,6 +53,7 @@ and GPU power so the UPS battery lasts longer. When the electricity is back, pre
 |---|---|---|
 | **[Smart Logic Gates board](https://github.com/Muntazer2030/smart_logic_gates_trainer_board)** | A logic-gates trainer board with its own mobile app ([smartLogic](https://github.com/Muntazer2030/smartLogic), [logic_board_master](https://github.com/Muntazer2030/logic_board_master)) and a [backend server](https://github.com/Muntazer2030/backend_server_for_the_logic_board) | C, Dart, Python |
 | **[Sila (صلة)](https://github.com/Muntazer2030/sila)** | Windows desktop app for managing an organization's relationships: contact profiles by category, campaigns and invitations, a statistics dashboard, Excel import/export and automatic backups. Arabic interface, fully local | Flutter, SQLite |
+| **[Eye Clinic](https://github.com/Muntazer2030/eye_clinic_app)** | Windows desktop app for an optical clinic or glasses shop: customer records, eye prescription table (distance and near, right and left eye), lens types, prices and search. Arabic interface, works offline | Flutter |
 | **[Emails Campaign Tool](https://github.com/Muntazer2030/emails-campaign-tool)** | Send emails in bulk using your own email account | Dart |
 
 ---
