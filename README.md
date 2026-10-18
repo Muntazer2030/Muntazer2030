@@ -7,8 +7,8 @@
 
 <p align="center">
   <img alt="Location" src="https://img.shields.io/badge/Location-Iraq-0b7285?style=flat-square">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Muntazer2030?style=flat-square&label=Followers&color=364fc7">
-  <img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-10-2b8a3e?style=flat-square">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Apps%20%26%20Embedded-364fc7?style=flat-square">
+  <img alt="Open source" src="https://img.shields.io/badge/Open%20source-welcome-2b8a3e?style=flat-square">
 </p>
 
 ---
