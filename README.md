@@ -70,7 +70,7 @@ into timesheets and payroll.
 
 A networked lab for teaching digital electronics: an ESP32 board on every bench checks the circuit the student wired.
 
-- ~17,000 lines of ESP-IDF firmware that tests circuits against truth tables, including clocked ones like flip-flops
+- ESP-IDF firmware that tests circuits against truth tables, including clocked ones like flip-flops
 - Zero-touch setup for a whole lab: BLE Wi-Fi provisioning, UDP server discovery, MQTT status, self-recovering boards
 - Python server plus a [student app](https://github.com/Muntazer2030/smartLogic) and an [instructor app](https://github.com/Muntazer2030/logic_board_master) with live view of every bench
 
